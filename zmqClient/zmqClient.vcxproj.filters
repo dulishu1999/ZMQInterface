@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\zmq">
+      <UniqueIdentifier>{922cb40f-0229-4655-b7a7-65cc64f947ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\zmq">
+      <UniqueIdentifier>{b1efb48b-e884-49d6-8678-288f2588e378}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\camera">
+      <UniqueIdentifier>{3cce6364-6bce-4a51-8d1e-b83680dee2fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\camera">
+      <UniqueIdentifier>{27ab98e4-0f11-43a9-a391-d3b6ac94c4aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\agrithnm">
+      <UniqueIdentifier>{9cea7fe5-b0ec-48f1-8e0c-4efccb078d61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\agrithnm">
+      <UniqueIdentifier>{d7b328dd-249f-4919-8fd1-3e47319a0546}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\zmq\proxy_handle.cpp">
+      <Filter>源文件\zmq</Filter>
+    </ClCompile>
+    <ClCompile Include="src\zmq\socket_handle.cpp">
+      <Filter>源文件\zmq</Filter>
+    </ClCompile>
+    <ClCompile Include="src\zmq\toml_config.cpp">
+      <Filter>源文件\zmq</Filter>
+    </ClCompile>
+    <ClCompile Include="src\zmq\zmq_msg.cpp">
+      <Filter>源文件\zmq</Filter>
+    </ClCompile>
+    <ClCompile Include="src\zmq\zmq_msg_handle.cpp">
+      <Filter>源文件\zmq</Filter>
+    </ClCompile>
+    <ClCompile Include="src\zmq\zmq_socket.cpp">
+      <Filter>源文件\zmq</Filter>
+    </ClCompile>
+    <ClCompile Include="src\zmq\timer.cpp">
+      <Filter>源文件\zmq</Filter>
+    </ClCompile>
+    <ClCompile Include="src\camera\MyCamera.cpp">
+      <Filter>源文件\camera</Filter>
+    </ClCompile>
+    <ClCompile Include="src\agrithnm\AgrithnmControl.cpp">
+      <Filter>源文件\agrithnm</Filter>
+    </ClCompile>
+    <ClCompile Include="src\agrithnm\baseinference.cpp">
+      <Filter>源文件\agrithnm</Filter>
+    </ClCompile>
+    <ClCompile Include="src\agrithnm\segRT.cpp">
+      <Filter>源文件\agrithnm</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\zmq\common_def.h">
+      <Filter>头文件\zmq</Filter>
+    </ClInclude>
+    <ClInclude Include="include\zmq\proxy_handle.h">
+      <Filter>头文件\zmq</Filter>
+    </ClInclude>
+    <ClInclude Include="include\zmq\socket_handle.h">
+      <Filter>头文件\zmq</Filter>
+    </ClInclude>
+    <ClInclude Include="include\zmq\toml_config.h">
+      <Filter>头文件\zmq</Filter>
+    </ClInclude>
+    <ClInclude Include="include\zmq\zmq_msg.h">
+      <Filter>头文件\zmq</Filter>
+    </ClInclude>
+    <ClInclude Include="include\zmq\zmq_msg_handle.h">
+      <Filter>头文件\zmq</Filter>
+    </ClInclude>
+    <ClInclude Include="include\zmq\zmq_socket.h">
+      <Filter>头文件\zmq</Filter>
+    </ClInclude>
+    <ClInclude Include="include\zmq\timer.h">
+      <Filter>头文件\zmq</Filter>
+    </ClInclude>
+    <ClInclude Include="include\camera\MyCamera.h">
+      <Filter>头文件\camera</Filter>
+    </ClInclude>
+    <ClInclude Include="include\agrithnm\AgrithnmControl.h">
+      <Filter>头文件\agrithnm</Filter>
+    </ClInclude>
+    <ClInclude Include="include\agrithnm\baseinference.h">
+      <Filter>头文件\agrithnm</Filter>
+    </ClInclude>
+    <ClInclude Include="include\agrithnm\segRT.h">
+      <Filter>头文件\agrithnm</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+#可以解析协议节点
+[agri]
+name="cell_fronter"
+netConfigPath = "E:\\my-work\\software-code\\zmqClientVS2019\\zmqClient\\config\\cell_MLA.toml"
+
+
+

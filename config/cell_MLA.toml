@@ -1,0 +1,26 @@
+#可以解析协议节点
+[cell]
+name="cell_fronter"
+id="01" 
+
+#网络 入口节点 作为服务端
+[[netin]]
+    name="bind"
+    [netin.function]
+        name="cell_in_func"
+        end_point="tcp://*:12000"
+    [netin.agrithnm]
+        name="cell_in_agri"
+        end_point="tcp://*:15001"
+
+#网络 出口节点  作为客户端
+[[netto]]
+    name="connect"
+    [netto.function]
+        name="cell_to_func"
+        end_point="tcp://localhost:13000"
+    [netto.agrithnm]
+        name="cell_to_agri"
+        end_point="tcp://localhost:16001"
+
+

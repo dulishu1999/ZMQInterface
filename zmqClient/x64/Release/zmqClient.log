@@ -1,0 +1,165 @@
+﻿  main.cpp
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\include\zmq\zmq_msg_handle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\include\zmq\socket_handle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\eigen3.4\include\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\eigen3.4\include\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\eigen3.4\include\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  AgrithnmControl.cpp
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\include\zmq\zmq_msg_handle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\include\zmq\socket_handle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\eigen3.4\include\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\eigen3.4\include\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\eigen3.4\include\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\AgrithnmControl.cpp(68,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\AgrithnmControl.cpp(228,50): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\AgrithnmControl.cpp(228,50): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\AgrithnmControl.cpp(252,50): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\AgrithnmControl.cpp(252,50): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+  baseinference.cpp
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\cuda11.7\include\NvInfer.h(6102,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\baseinference.cpp(130,26): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\baseinference.cpp(130,20): warning C4244: “初始化”: 从“_Tp”转换到“const float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\baseinference.cpp(131,26): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\baseinference.cpp(131,20): warning C4244: “初始化”: 从“_Tp”转换到“const float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\baseinference.cpp(132,15): warning C4244: “初始化”: 从“const int”转换到“float”，可能丢失数据
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\baseinference.cpp(133,14): warning C4244: “初始化”: 从“const int”转换到“float”，可能丢失数据
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\baseinference.cpp(136,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\baseinference.cpp(137,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\baseinference.cpp(263,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\baseinference.cpp(310,71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\baseinference.cpp(314,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\baseinference.cpp(315,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  segRT.cpp
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\cuda11.7\include\NvInfer.h(6102,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\agrithnm\segRT.cpp(95,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  MyCamera.cpp
+  proxy_handle.cpp
+  socket_handle.cpp
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\socket_handle.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\include\zmq\zmq_msg_handle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\include\zmq\socket_handle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\eigen3.4\include\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\eigen3.4\include\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\eigen3.4\include\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\socket_handle.cpp(58,41): warning C4101: “e”: 未引用的局部变量
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\socket_handle.cpp(127,36): warning C4244: “参数”: 从“_Tp”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\socket_handle.cpp(128,36): warning C4244: “参数”: 从“_Tp”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\socket_handle.cpp(129,36): warning C4244: “参数”: 从“_Tp”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\socket_handle.cpp(130,36): warning C4244: “参数”: 从“_Tp”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+  timer.cpp
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\timer.cpp(30,94): warning C4244: “return”: 从“_Rep”转换到“double”，可能丢失数据
+          with
+          [
+              _Rep=__int64
+          ]
+  toml_config.cpp
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\include\zmq\zmq_msg_handle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\include\zmq\socket_handle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\eigen3.4\include\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\eigen3.4\include\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\eigen3.4\include\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  zmq_msg.cpp
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\zmq_msg.cpp(9,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\zmq_msg.cpp(26,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\zmq_msg.cpp(68,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\zmq_msg.cpp(89,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\zmq_msg.cpp(112,77): warning C4244: “参数”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\zmq_msg.cpp(112,69): warning C4244: “参数”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\zmq_msg.cpp(112,61): warning C4244: “参数”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\zmq_msg.cpp(112,53): warning C4244: “参数”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\zmq_msg.cpp(124,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  zmq_msg_handle.cpp
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\src\zmq\zmq_msg_handle.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\include\zmq\zmq_msg_handle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\zmqClient\include\zmq\socket_handle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\eigen3.4\include\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\eigen3.4\include\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\my-work\software-code\zmqClientVS2019\zmqClient\3rd\eigen3.4\include\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  zmq_socket.cpp
+    正在创建库 E:\my-work\software-code\zmqClientVS2019\zmqClient\x64\Release\zmqClient.lib 和对象 E:\my-work\software-code\zmqClientVS2019\zmqClient\x64\Release\zmqClient.exp
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 4143 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  zmqClient.vcxproj -> E:\my-work\software-code\zmqClientVS2019\zmqClient\x64\Release\zmqClient.exe
